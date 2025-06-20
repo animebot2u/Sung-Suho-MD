@@ -47,8 +47,8 @@ lite({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363402507750390@newsletter',
-          newsletterName: '『『 sᴜʜᴏ ᴍᴅ 』』',
+          newsletterJid: '120363305302284893@newsletter',
+          newsletterName: '『『 Hunter X』』',
           serverMessageId: 143
         }
       }
@@ -82,8 +82,8 @@ lite({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363402507750390@newsletter',
-          newsletterName: '『 sᴜʜᴏ ᴍᴅ 』 ',
+          newsletterJid: '120363305302284893@newsletter',
+          newsletterName: '『 Hunter X』 ',
           serverMessageId: 143
         }
       }
